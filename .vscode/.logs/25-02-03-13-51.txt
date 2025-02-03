@@ -1,0 +1,18 @@
+25-02-03 13:51 Session started
+----------------------------------------
+13:58:48 Document switched to: c:\Users\malte.andersson\AppData\Roaming\Code\User\profiles\-388d88c1\settings.json
+----------------------------------------
+13:59:28 039:004 > ,
+"files.associations": {
+    "*.xaml": "xml"
+},
+"xml.fileAssociations": [
+    {
+        "pattern": "**/*.xaml",
+        "systemId": "https://raw.githubusercontent.com/karye/xamelot/refs/heads/master/syntax/xaml.xsd"
+    }
+],
+14:04:02 Document switched to: c:\Users\malte.andersson\github-classroom\prog1-wpf-TE23E-Andersson-Malte\.gitignore
+----------------------------------------
+14:04:07 Document switched to: c:\Users\malte.andersson\github-classroom\prog1-wpf-TE23E-Andersson-Malte\.vscode\csharp.code-snippets
+----------------------------------------
