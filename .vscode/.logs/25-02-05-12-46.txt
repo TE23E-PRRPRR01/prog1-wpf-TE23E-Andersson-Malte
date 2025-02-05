@@ -1,0 +1,31 @@
+25-02-05 12:46 Session started
+----------------------------------------
+12:50:15 000:000 > ö
+12:50:15 000:001 > öv
+12:50:15 000:002 > öva
+12:50:15 000:003 > övar
+12:50:17 000:000 > övart
+12:50:17 000:001 > övartr
+12:50:17 000:002 > övarträ
+12:50:17 000:003 > övarträn
+12:50:18 000:004 > övarträna
+12:50:18 000:005 > övartränat
+12:50:18 000:007 > övartränat p
+12:50:18 000:008 > övartränat på
+12:50:20 000:010 > övartränat på x
+12:50:20 000:011 > övartränat på xa
+12:50:20 000:012 > övartränat på xam
+12:50:20 000:013 > övartränat på xaml
+12:50:22 000:014 > övartränat på xaml,
+12:50:22 000:016 > övartränat på xaml, o
+12:50:22 000:017 > övartränat på xaml, oc
+12:50:22 000:018 > övartränat på xaml, och
+12:50:24 000:020 > övartränat på xaml, och e
+12:50:24 000:021 > övartränat på xaml, och en
+12:50:25 000:021 > övartränat på xaml, och env
+12:50:25 000:022 > övartränat på xaml, och enve
+12:50:25 000:023 > övartränat på xaml, och enven
+12:50:25 000:024 > övartränat på xaml, och envent
+12:50:25 000:025 > övartränat på xaml, och enventa
+12:50:25 000:026 > övartränat på xaml, och enventas
+12:50:27 000:025 > övartränat på xaml, och enventass
