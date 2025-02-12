@@ -1,0 +1,6 @@
+25-02-12 14:29 Session started
+----------------------------------------
+14:29:05 Document switched to: c:\Users\malte.andersson\github-classroom\prog1-wpf-TE23E-Andersson-Malte\AreaApp\MainWindow.xaml.cs
+----------------------------------------
+14:29:09 Document switched to: c:\Users\malte.andersson\github-classroom\prog1-wpf-TE23E-Andersson-Malte\AreaApp\MainWindow.xaml.cs
+----------------------------------------
