@@ -1,0 +1,16 @@
+25-03-19 14:03 Session started
+----------------------------------------
+14:03:40 Document switched to: c:\Users\malte.andersson\github-classroom\prog1-wpf-TE23E-Andersson-Malte\BrännbollApp\MainWindow.xaml.cs
+----------------------------------------
+14:03:46 Document switched to: c:\Users\malte.andersson\github-classroom\prog1-wpf-TE23E-Andersson-Malte\BrännbollApp\MainWindow.xaml.cs
+----------------------------------------
+14:05:03 Document switched to: c:\Users\malte.andersson\github-classroom\prog1-wpf-TE23E-Andersson-Malte\BrännbollApp\MainWindow.xaml
+----------------------------------------
+14:05:27 Document switched to: c:\Users\malte.andersson\github-classroom\prog1-wpf-TE23E-Andersson-Malte\BrännbollApp\MainWindow.xaml.cs
+----------------------------------------
+14:09:50 Document switched to: c:\Users\malte.andersson\github-classroom\prog1-wpf-TE23E-Andersson-Malte\AreaApp\MainWindow.xaml
+----------------------------------------
+14:09:59 Document switched to: c:\Users\malte.andersson\github-classroom\prog1-wpf-TE23E-Andersson-Malte\EpostApp\MainWindow.xaml
+----------------------------------------
+14:10:06 Document switched to: c:\Users\malte.andersson\github-classroom\prog1-wpf-TE23E-Andersson-Malte\EpostApp\MainWindow.xaml.cs
+----------------------------------------
