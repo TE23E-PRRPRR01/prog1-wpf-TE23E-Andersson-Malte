@@ -1,0 +1,4 @@
+25-03-19 14:22 Session started
+----------------------------------------
+14:22:24 Document switched to: c:\Users\malte.andersson\github-classroom\prog1-wpf-TE23E-Andersson-Malte\EpostApp\MainWindow.xaml.cs
+----------------------------------------
