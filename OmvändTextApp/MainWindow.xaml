@@ -1,0 +1,21 @@
+﻿<Window x:Class="OmvändTextApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OmvändTextApp"
+        mc:Ignorable="d"
+        Title="Omvänd Text" Height="450" Width="800" SizeToContent="WidthAndHeight">
+    <StackPanel>
+        <Label Margin="5" FontSize="24" FontWeight="bold">OMVÄND TEXT</Label>
+
+        <Label Margin="5">Ange text:</Label>
+        <TextBox Name="txbInput" Margin="5" Padding="10" TextWrapping="Wrap"></TextBox>
+        <Button Click="KlickVändOm" Margin="10">Kör!</Button>
+
+        <Label Margin="5">Sparad text:</Label>
+        <TextBox Name="txbOutput" Margin="5" Padding="10" IsReadOnly="True" TextWrapping="Wrap"></TextBox>
+
+        <TextBox Name="txbAntalTecken" Margin="5" IsReadOnly="True"></TextBox>
+    </StackPanel>
+</Window>

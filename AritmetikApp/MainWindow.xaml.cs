@@ -56,12 +56,12 @@ public partial class MainWindow : Window
             }
             else
             {
-                lblResultat.Content = "Ange giltigt heltal!";
+                lblResultat.Content = "Tal 2 saknar giltigt heltal!";
             }
         }
         else
         {
-            lblResultat.Content = "Ange giltigt heltal!";
+            lblResultat.Content = "Tal 1 saknar giltigt heltal!";
         }
     }
 }
